@@ -1,2 +1,2 @@
 # Makarim-MVVM
-Makarim MVVM (Wpf)
+Wpf MVVM
